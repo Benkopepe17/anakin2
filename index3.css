@@ -1,0 +1,155 @@
+.felso {
+height: 80px;
+width: 100%;
+background-color: black;
+display: flex;
+justify-content: space-around;
+text-align: center;
+
+}
+
+.q {
+font-size: 20px;
+margin-top: 30px;
+color: wheat;
+}
+
+
+
+.img {
+
+    width: 800px;
+    height: 600px;
+ position: relative;
+}
+
+#fej {
+position: absolute;
+font-size: 60px;
+top: 400px;
+right: 700px;
+}
+
+
+.a {
+
+position: absolute;
+letter-spacing: 3px;
+top: 120px;
+left: 850px;
+font-size: 30px;
+
+}
+
+
+.elso {
+  
+    width: 800px;
+    height: 550px;
+  
+    background-color: grey;
+    
+    position: relative;
+    
+    
+    }
+    
+.benne {
+        margin-left: 20%;
+        text-align: left;
+      padding: 50px;
+       color: white;
+       font-size: 90px;
+    
+       
+ }
+
+
+.köröm2 {
+  
+        font-size: 300px;
+        position: absolute;
+        top: -350px;
+        color: white;
+    
+    }
+
+
+.b {
+    position: absolute;
+    letter-spacing: 3px;
+    top: 750px;
+    left: 850px;
+    font-size: 30px;
+
+
+}
+
+
+.masodik {
+  margin-top: 600px;
+    width: 800px;
+    height: 550px;
+    
+    background-color: grey;
+    
+    position: relative;
+    
+  
+  }
+  
+  .benne2 {
+  
+    margin-left: 20%;
+    text-align: left;
+   padding: 80px; 
+   color: white;
+   font-size: 90px;
+  
+   
+  }
+
+
+  .exp {
+
+    position: absolute;
+    letter-spacing: 3px;
+    top: 1900px;
+    left: 850px;
+    font-size: 30px;
+
+
+
+  }
+
+
+  .harmadik {
+  margin-top: 600px ;
+    width: 800px;
+    height: 1050px;
+    
+    background-color: grey;
+    
+    position: relative;
+  
+  }
+  
+  .benne3 {
+    margin-left: 10%;
+    text-align: left;
+   padding: 110px; 
+   color: white;
+   font-size: 90px;
+
+
+}
+
+.letz {
+
+    position: absolute;
+    letter-spacing: 3px;
+    top: 3050px;
+    left: 850px;
+    font-size: 30px;
+
+}

@@ -1,0 +1,134 @@
+body{
+    display: flex;
+    display: block;
+    margin-right: auto;
+   height: 500px;
+      width: 600px;
+
+}
+
+
+
+  
+  img {
+  position: relative;
+      width: 600px;
+height: 500px;
+  }
+  
+ .mind{
+font-size: 20px;
+    position: absolute;
+    left: 700px;
+    top: 50px;
+    width: 800px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+  #fej {
+  font-size: 60px;
+  position: absolute;
+  top: 250px;
+  left: 300px;
+  font-family:  Abril Fatface;
+  }
+  
+  
+  .a {
+  
+  font-size: 22px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      line-height: 30px;
+  }
+  
+  .b {
+      line-height: 25px;
+      font-size: 20px;
+  }
+  
+  
+  .elso {
+  
+  width: 600px;
+  height: 550px;
+  text-align: center;
+  background-color: grey;
+  
+  position: relative;
+  
+  
+  }
+  
+  .benne {
+      margin-left: 20%;
+      text-align: left;
+     padding: 30px; 
+     color: white;
+     font-size: 90px;
+  
+     
+  }
+  
+  .masodik {
+  
+    width: 600px;
+    height: 550px;
+    text-align: center;
+    background-color: grey;
+    
+    position: relative;
+    
+  
+  }
+  
+  .benne2 {
+  
+    margin-left: 20%;
+    text-align: left;
+   padding: 30px; 
+   color: white;
+   font-size: 90px;
+  
+   
+  }
+  
+  
+  
+  .harmadik {
+  
+    width: 600px;
+    height: 750px;
+    text-align: center;
+    background-color: grey;
+    margin-bottom: 40px;
+    position: relative;
+  
+  }
+  
+  .benne3 {
+    margin-left: 20%;
+    text-align: left;
+   padding: 30px; 
+   color: white;
+   font-size: 70px;
+  }
+  
+  
+  
+  
+      footer {
+          border-top: 5px solid rgb(10, 9, 9);
+        }
+  
+  
+  
+  
+  .köröm2 {
+  
+      font-size: 100px;
+      position: absolute;
+      top: -120px;
+      color: white;
+  
+  }
